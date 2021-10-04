@@ -57,6 +57,7 @@ namespace ConsoleApp5
         public void setMark(int i, int j,int mark)
         {
             mas[i][j] = mark;
+            //
         }
         public double getAvg(int i)
         {
